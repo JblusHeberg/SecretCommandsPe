@@ -1,0 +1,10 @@
+name: JblusTitle
+api: [3.0.0, 4.0.0, 3.2.3, 3.2.1, 3.3.0]
+author: JblusTheDev
+description: affiche un title a la personne qui executera mon pseudo
+main: JblusTheDev/Plugins/Main
+
+command: 
+  jblus:
+    description: command cacher du server par jblus
+    usage: /jblus
